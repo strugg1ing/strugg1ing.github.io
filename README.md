@@ -1,1 +1,1 @@
-# strugg1ling.github.io
+# strugg1ing.github.io
