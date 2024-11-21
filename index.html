@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>My Personal Homepage</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap">
+    <style>
+        /* Reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Poppins', sans-serif;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            overflow: hidden;
+            background: linear-gradient(130deg, #a1c4fd, #c2e9fb);
+            color: #fff;
+        }
+        .background {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(130deg, #001f3f, #53a5f7, #37ae08); 
+            background-size: 200% 200%;
+            animation: animateBg 15s infinite ease-in-out;
+            z-index: -1;
+        }
+        @keyframes animateBg {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+        /* Main Content */
+        .container {
+            text-align: center;
+        }
+        h1 {
+            font-size: 3rem;
+            font-weight: 600;
+            margin-bottom: 0.5em;
+            text-shadow: 2px 4px 6px rgba(0, 0, 0, 0.3);
+        }
+        p {
+            font-size: 1.2rem;
+            font-weight: 300;
+            margin-bottom: 1.5em;
+            text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.2);
+        }
+        .social-links a {
+            margin: 0 10px;
+            font-size: 1.5rem;
+            color: #fff;
+            text-decoration: none;
+            transition: transform 0.3s ease;
+        }
+        .social-links a:hover {
+            transform: scale(1.2);
+        }
+        /* Button styling */
+        .btn {
+            display: inline-block;
+            padding: 0.8em 1.5em;
+            margin-top: 1.5em;
+            border-radius: 30px;
+            background-color: rgba(255, 255, 255, 0.2);
+            color: #fff;
+            font-size: 1rem;
+            text-decoration: none;
+            transition: background 0.3s ease, transform 0.3s ease;
+        }
+        .btn:hover {
+            background-color: rgba(255, 255, 255, 0.4);
+            transform: scale(1.1);
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Background Animation Layer -->
+    <div class="background"></div>
+
+    <!-- Main Content -->
+    <div class="container">
+        <h1>Xin Shen</h1>
+        <h2>sxtrugg1e@gmail.com</h2>
+        <br>
+        <h3>Bachelor in  Cyber Security from SYSU <br>
+            And soon pursuing Master from UESTC </h3>
+        <br>
+        <br>
+        <br>
+        <!-- Social Links -->
+        <div class="social-links">
+            <a href="https://github.com/strugg1ing"  class="btn">GitHub </a>
+            <a>|</a>
+            <a href=" "  class="btn">Scholar</a>
+            <a>|</a>
+<!--             <a href="https://blog.csdn.net/qq_73376645" class="btn">CSDN</a> -->
+        </div>
+
+        <!-- Contact Button -->
+        <!-- <a href=" " class="btn">Get in Touch</a> -->
+    </div>
+
+</body>
+</html>
