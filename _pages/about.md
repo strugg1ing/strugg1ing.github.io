@@ -42,7 +42,7 @@ redirect_from:
 # 💫 About Me
 I’m currently an undergraduate student at <a href="https://www.sysu.edu.cn/">Sun Yat-sen University</a><img src="../images/sysu_logo.png" alt="SYSU" style="height:1em; vertical-align:middle;">, majoring in Cyberspace Security. My research interests lie in Android malware detection and generative AI.
 
-I will pursue a master's degree at <a href="https://www.uestc.edu.cn/">University of Electronic Science and Technology of China</a> <img src="../images/uestc_logo.png" alt="UESTC" style="height:1em; vertical-align:middle;"> and am actively exploring Android & security technologies.
+I will pursue a master's degree at <a href="https://www.uestc.edu.cn/">University of Electronic Science and Technology of China</a> <img src="../images/uestc_logo.png" alt="UESTC" style="height:1em; vertical-align:middle;"> and am actively exploring Android Security.
 
 # 📌 Contact
  [![Github](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=GitHub&logoColor=FFFFFF&color=000000)](https://github.com/strugg1ing) | [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&logo=Zhihu&logoColor=FFFFFF&color=0084FF)](https://www.zhihu.com/people/cdr-66) | 📧Email: shenx36@mail2.sysu.edu.cn | 💬WeChat: Strugg1e_S  
