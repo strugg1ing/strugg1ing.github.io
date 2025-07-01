@@ -45,7 +45,7 @@ I’m currently an undergraduate student at <a href="https://www.sysu.edu.cn/">S
 I will pursue a master's degree at <a href="https://www.uestc.edu.cn/">University of Electronic Science and Technology of China</a> <img src="../images/uestc_logo.png" alt="UESTC" style="height:1em; vertical-align:middle;"> and am actively exploring Android Security.
 
 # 📌 Contact
- [![Github](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=GitHub&logoColor=FFFFFF&color=000000)](https://github.com/strugg1ing) | [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&logo=Zhihu&logoColor=FFFFFF&color=0084FF)](https://www.zhihu.com/people/cdr-66) | 📧Email: shenx36@mail2.sysu.edu.cn | 💬WeChat: Strugg1e_S  
+ [![Github](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=GitHub&logoColor=FFFFFF&color=000000)](https://github.com/strugg1ing) | [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&logo=Zhihu&logoColor=FFFFFF&color=0084FF)](https://www.zhihu.com/people/strugg1e.top) | 📧Email: shenx36@mail2.sysu.edu.cn | 💬WeChat: Strugg1e_S  
 
 # 📖 Educations
 - *2025.09 (upcoming)* 🎯 Master’s Degree in Cyberspace Security, [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/)<img src="../images/uestc_logo.png" alt="UESTC" style="height:1em; vertical-align:middle;">  
