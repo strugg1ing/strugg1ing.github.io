@@ -40,9 +40,12 @@ redirect_from:
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
 
 # 💫 About Me
-I’m currently an undergraduate student at <a href="https://www.sysu.edu.cn/">Sun Yat-sen University</a><img src="../images/sysu_logo.png" alt="SYSU" style="height:1em; vertical-align:middle;">, majoring in Cyberspace Security. My research interests lie in Android malware detection and generative AI.
+Cybersecurity undergraduate at <a href="https://www.sysu.edu.cn/">Sun Yat-sen University</a><img src="../images/sysu_logo.png" alt="SYSU" style="height:1em; vertical-align:middle;"> specializing in **Android Security and AI applications**. Research focus includes:
+- 🧠 Generative AI applications in cybersecurity
+- 🔒 Android security and malware detection
+- 🔍 Source code similarity detection for plagiarism identification
 
-I will pursue a master's degree at <a href="https://www.uestc.edu.cn/">University of Electronic Science and Technology of China</a> <img src="../images/uestc_logo.png" alt="UESTC" style="height:1em; vertical-align:middle;"> and am actively exploring Android Security.
+Accepted into the Master's program at <a href="https://www.uestc.edu.cn/">University of Electronic Science and Technology of China</a> <img src="../images/uestc_logo.png" alt="UESTC" style="height:1em; vertical-align:middle;"> (starting Fall 2025) to advance research in **Android Security and AI applications**.
 
 # 📌 Contact
  [![Github](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=GitHub&logoColor=FFFFFF&color=000000)](https://github.com/strugg1ing) | [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&logo=Zhihu&logoColor=FFFFFF&color=0084FF)](https://www.zhihu.com/people/strugg1e.top) | 📧Email: strugg1e@std.uestc.edu.cn | 💬WeChat: Strugg1e_S  
@@ -52,16 +55,13 @@ I will pursue a master's degree at <a href="https://www.uestc.edu.cn/">Universit
 - *2021.09 – 2025.06*  🎓 Bachelor's Degree in Cyberspace Security, [Sun Yat-sen University (SYSU)](https://www.sysu.edu.cn/) <img src="../images/sysu_logo.png" alt="SYSU" style="height:1em; vertical-align:middle;">  (GPA: 3.85/5.0)
 
 # 🎖 Honors and Awards
-- First Prize in China Robotics and Artificial Intelligence Competition (2024)
-- Second Prize in the National Mathorcup Mathematical Modeling Competition (2024)
-- National Endeavor Scholarship (2021–2023)
-- SYSU Outstanding Student Scholarship(2021-2024)
+- **First Prize**, China Robotics and Artificial Intelligence Competition (2024)  
+  *AI Application Track | Team Lead*
+- **Second Prize**, National Mathorcup Mathematical Modeling Competition (2024)
+- **National Endeavor Scholarship** (2021-2023)
+- **SYSU Outstanding Student Scholarship** (2021-2024)
 
 # 💻 Skills
-
-**Programming Languages:**  
-- Proficient in **C**, **C++**, and **Python** for systems programming, algorithm development, and scripting.  
-- Familiar with **Java** and **Bash**, especially in Android development and automation tasks.
 
 **Development Tools & Technologies:**  
 - Experienced with **Linux** (Ubuntu, CentOS), daily use of command-line tools for development and server management.  
@@ -70,7 +70,7 @@ I will pursue a master's degree at <a href="https://www.uestc.edu.cn/">Universit
 
 **Languages:**  
 - **Chinese**: Native speaker  
-- **English**: Proficient, passed **CET-4** and **CET-6**
+- **English**: Proficient, **CET-6**
 
 
 <!-- # 💻 Internships
