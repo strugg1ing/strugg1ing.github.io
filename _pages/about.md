@@ -55,8 +55,7 @@ Accepted into the Master's program at <a href="https://www.uestc.edu.cn/">Univer
 - *2021.09 – 2025.06*  🎓 Bachelor's Degree in Cyberspace Security, [Sun Yat-sen University (SYSU)](https://www.sysu.edu.cn/) <img src="../images/sysu_logo.png" alt="SYSU" style="height:1em; vertical-align:middle;">  (GPA: 3.85/5.0)
 
 # 🎖 Honors and Awards
-- **First Prize**, China Robotics and Artificial Intelligence Competition (2024)  
-  *AI Application Track | Team Lead*
+- **First Prize**, China Robotics and Artificial Intelligence Competition (2024) 
 - **Second Prize**, National Mathorcup Mathematical Modeling Competition (2024)
 - **National Endeavor Scholarship** (2021-2023)
 - **SYSU Outstanding Student Scholarship** (2021-2024)
